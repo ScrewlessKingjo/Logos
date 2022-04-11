@@ -10,7 +10,9 @@
 ### 사용 기술
 
 Web : Django, Chart.js, amCharts
+
 Data : Gensim, OKT, Kkma
+
 DB : MySQL
 
 Other : Git, Aquerytool
