@@ -1,14 +1,12 @@
 # Logos
 
-### 우수상 수상
 
 ![image](https://user-images.githubusercontent.com/92324214/162731843-d2a0a25e-c693-46b7-8918-0edfae7b9c96.png)
 
 
 ## 유사도 기반 판례 검색 서비스
 
-개발 인원 : 윤상운, 강규남, 김오현, 김현식, 장우영
-
+개발 인원 : 4인
 개발 기간 : 22.01 ~ 22.02
 
 개발 툴 : Visual Studio Code, Jupyter Notebook
